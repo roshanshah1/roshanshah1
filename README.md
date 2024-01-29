@@ -11,6 +11,3 @@ I will use this GitHub profile to showcase my data science skills.
 - Sustainability
 - Charity
 - Learning
-
-*italics
-**bold**
