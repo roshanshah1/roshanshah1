@@ -1,16 +1,13 @@
-### Hi there 👋
+## About me
 
-<!--
-**roshanshah1/roshanshah1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student at the _LSE_ studying for a BSc in Geography with Economics.
 
-Here are some ideas to get you started:
+I will use this GitHub profile to showcase my data science skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Interests
+
+- Python 
+- Data Science
+- Sustainability
+- Charity
+- Learning
